@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋 I'm Ravindi
 
-<!--
-**ravindi5387/ravindi5387** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student  
+💻 Interested in Web Development  
+🚀 Currently building projects to improve my skills  
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- HTML, CSS, JavaScript
+- Java, C++
+- PHP & MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- 💰 Budget Tracker
+- 🎓 Event Management System
+- 👟 Footwear Management System
+
+## 📫 Contact Me
+- Email: ravindisandali5387@gmail.com
