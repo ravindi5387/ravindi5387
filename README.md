@@ -107,6 +107,18 @@ Explore my GitHub repositories to see my academic, personal and software develop
 
 ---
 
+## ✍️ My Technical Writing
+
+I share my Software Engineering learning journey, 
+projects, technical knowledge, and lessons I learn along the way.
+
+### 📝 Latest Article
+
+- My Journey as a Software Engineering Undergraduate - https://medium.com/@ravindisandali5387/my-journey-as-a-software-engineering-undergraduate-5761724cfcd4
+
+👉 Read more articles on Medium - https://medium.com/@ravindisandali5387
+
+
 ## 🎯 Current Learning Path
 
 ```text
